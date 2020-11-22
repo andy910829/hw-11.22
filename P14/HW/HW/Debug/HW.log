@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+e:\p14\source\main.c(19): warning C4090: '函式': 不同的 'const' 限定詞
+e:\p14\source\main.c(22): warning C4090: '函式': 不同的 'const' 限定詞
+e:\p14\source\main.c(23): warning C4090: '函式': 不同的 'const' 限定詞
+e:\p14\source\main.c(27): warning C4090: '函式': 不同的 'const' 限定詞
+e:\p14\source\main.c(72): warning C4028: 型式參數 1 與來自宣告的不同
+e:\p14\source\main.c(84): warning C4028: 型式參數 1 與來自宣告的不同
+  HW.vcxproj -> E:\P14\HW\HW\..\..\temp\debug\HW.exe
